@@ -1,5 +1,5 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/giste/common
+    vendor/giste
 
 PRODUCT_PACKAGES += \
     Profiles
