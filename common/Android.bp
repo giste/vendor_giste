@@ -1,10 +1,6 @@
 android_app_import {
 	name: "Profiles",
 	apk: "propietary/app/Profiles/Profiles.apk",
-<<<<<<< HEAD
 	certificate: "platform",
-=======
-	certificate: platform,
->>>>>>> main
 	privileged: true,
 }
