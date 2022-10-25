@@ -4,7 +4,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE := Profiles
-LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
+LOCAL_SRC_FILES := prebuilt/app/Profiles/Profiles.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_CERTIFICATE := PLATFORM
 
