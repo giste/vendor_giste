@@ -1,6 +1,0 @@
-android_app_import {
-	name: "Profiles",
-	apk: "propietary/app/Profiles/Profiles.apk",
-	certificate: "platform",
-	privileged: true,
-}
